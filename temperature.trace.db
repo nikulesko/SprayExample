@@ -1,0 +1,24 @@
+07-15 17:32:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "ARCHIVE" не найдена
+Table "ARCHIVE" not found; SQL statement:
+insert into archive (datetime, temperature, user) values (?,?,?) [42102-174]
+07-15 17:32:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "ARCHIVE" не найдена
+Table "ARCHIVE" not found; SQL statement:
+insert into archive (datetime, temperature, user) values (?,?,?) [42102-174]
+07-15 17:33:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "ARCHIVE" не найдена
+Table "ARCHIVE" not found; SQL statement:
+insert into archive (datetime, temperature, user) values (?,?,?) [42102-174]
+07-15 17:33:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "ARCHIVE" не найдена
+Table "ARCHIVE" not found; SQL statement:
+insert into archive (datetime, temperature, user) values (?,?,?) [42102-174]
+07-15 17:35:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "ARCHIVE" не найдена
+Table "ARCHIVE" not found; SQL statement:
+insert into archive (datetime, temperature, user) values (?,?,?) [42102-174]
+07-15 17:35:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "ARCHIVE" не найдена
+Table "ARCHIVE" not found; SQL statement:
+insert into archive (datetime, temperature, user) values (?,?,?) [42102-174]
